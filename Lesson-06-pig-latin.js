@@ -4,5 +4,4 @@ function translatePigLatin(str) {
         .replace(/(^[^aeiou]+)(\w*)/, "$2$1ay");
 }
 
-// test here
 translatePigLatin("consonant");
