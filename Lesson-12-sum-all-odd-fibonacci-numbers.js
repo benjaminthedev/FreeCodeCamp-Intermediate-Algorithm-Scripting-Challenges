@@ -1,7 +1,7 @@
 function sumFibs(num) {
 //Create a variable to keep record of the current and previous numbers 
   let a = 0;
-  let b = 1;
+  let b = 1;    
   //along with the result that will be returned
   let result = 0;
 //Use a while loop to make sure we do not go over the number given as parameter.
